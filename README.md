@@ -1,4 +1,3 @@
-# ASTRA - Centralized Vulnerability Detection System
 
 A responsive cybersecurity dashboard prototype with dark theme and neon accents.
 
